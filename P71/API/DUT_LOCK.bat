@@ -1,0 +1,1 @@
+python DUT_LOCK.py

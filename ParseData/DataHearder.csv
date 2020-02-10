@@ -1,0 +1,8 @@
+Site,Product,SerialNumber,Special Build Name,Special Build Description,Unit Number,Station ID,Test Pass/Fail Status,StartTime,EndTime,Version,List of Failing Tests,BestPWM,Centerx,Centery,DarkNoise,GlobalFactora,GlobalFactorb,GlobalFactorc,GridBlockMax,GridBlockMin,ImageQuality,maxPWMBrightness,PWM20Brightness,PWM20BrightnessRaw,RetryCounter,Uniformity,Yvalue
+Display Name ----->,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PDCA Priority ----->,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Upper Limit ----->,,,,,,,,,,,,4095,NA,NA,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,100,1430
+Lower Limit ----->,,,,,,,,,,,,100,NA,NA,NA,NA,NA,NA,NA,NA,30,NA,NA,NA,NA,50,1330
+Measurement Unit ----->,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+FXLH,J305,C07YW08HN4CM,J305-P2.MAIN,J305-P2.MAIN_06,,FXLH_G11-2FT-04A_2_LED-CAL,PASS,2019/10/25 11:45,2019/10/25 11:45,2.16_a,,953,622,483,1.823322,0.000345,27.97,-74.89,67.128906,37.980469,73.263581,5648.804247,1177.372806,44.746979,2,75.295734,1380.070535
+FXLH,J305,C07YW08HN4CM,J305-P2.MAIN,J305-P2.MAIN_06,,FXLH_G11-2FT-04A_2_LED-CAL,PASS,2019/10/25 11:45,2019/10/25 11:45,2.16_a,,947,635,477,1.82458,0.000345,27.97,-74.89,67.753906,37.3125,72.182364,5645.753401,1192.146568,45.274595,1,73.360076,1379.075834

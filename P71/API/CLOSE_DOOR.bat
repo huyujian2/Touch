@@ -1,0 +1,1 @@
+python CLOSE_DOOR.py
